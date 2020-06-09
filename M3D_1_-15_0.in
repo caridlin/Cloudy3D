@@ -1,0 +1,62 @@
+////////////////////////////////////
+title M3D_1_-15_0
+////////////////////////////////////
+set punch prefix "M3D_1_-15_0"
+table HM12 z=0.435
+cmb z=0.435
+luminosity 43.0177 range 0.5478 to 0.6535 Ryd
+table SED "SFGSED.SED" extrapolate
+dlaw table radius
+continue 20.790425917 -2.218970001 
+continue 21.692428809 -2.467271318 
+continue 21.965357511 -2.739820053 
+continue 22.131662541 -3.055167046 
+continue 22.251624206 -3.397672554 
+continue 22.345520366 -3.753946861 
+continue 22.422680694 -4.115850313 
+continue 22.488178192 -4.479108437 
+continue 22.545079987 -4.841691888 
+continue 22.595382717 -5.202743374 
+continue 22.640459175 -5.561978439 
+continue 22.681293856 -5.919376117 
+continue 22.718616865 -6.275026488 
+continue 22.752984653 -6.629058419 
+continue 22.784831064 -6.981606905 
+continue 22.814500905 -7.332799452 
+continue 22.842272756 -7.682751335 
+continue 22.868374916 -8.031564815 
+continue 22.892996819 -8.379329969 
+end of dlaw
+abundances GASS no grains
+radius 20.9665 22.8163
+#C3D theta = -15.00
+#C3D phi = 0.00
+save last radius ".rad"
+save last continuum ".cont"
+save last physical conditions ".phy"
+save last overview ".ovr"
+save last heating ".heat"
+save last cooling ".cool"
+save last optical depth ".opd"
+save last element hydrogen ".ele_H"
+save last element helium ".ele_He"
+save last element carbon ".ele_C"
+save last element nitrogen ".ele_N"
+save last element oxygen ".ele_O"
+save last element argon ".ele_Ar"
+save last element neon ".ele_Ne"
+save last element sulphur ".ele_S"
+save last element chlorin ".ele_Cl"
+save last element iron ".ele_Fe"
+save last element silicon ".ele_Si"
+save last lines emissivity ".emis"
+H  1  4861.33A
+H  1  6562.81A
+Ca B  5875.64A
+N  2  6583.45A
+O  1  6300.30A
+O  2  3726.03A
+O  2  3728.81A
+O  3  5006.84A
+BLND  4363.00A
+end of lines
