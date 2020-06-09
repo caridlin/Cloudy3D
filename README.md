@@ -8,4 +8,6 @@ The velocity of the disk is as follows.
 
 <img src="disk.png" alt="drawing" width="500"/>
 
+## Step 2
+
 
