@@ -1,4 +1,4 @@
-# Cloudy3D Simulation for J0230
+# Cloudy3D Simulation
 
 ## Step 1
 
