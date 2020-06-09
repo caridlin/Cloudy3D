@@ -6,6 +6,6 @@ For a Sersic disk with a circular velocity defined by the potential of the galac
 
 The 
 
-![Alt text](disk.png?raw=true | width=50)
+<img src="disk.png" alt="drawing" width="200"/>
 
 
