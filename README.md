@@ -8,9 +8,9 @@ The velocity of the disk is as follows.
 
 <img src="disk.png" alt="drawing" width="400"/>
 
-Here are 
+Here are the computed emissions from [OII] and the projected velocities viewed with angles 30 and 80 degrees.
 <p float="left">
-  <img src="angle30.png" width="420" alt = "Angle 30"/>
+  <img src="angle30.png" width="420" />
   <img src="angle80.png" width="420" /> 
 </p>
 
