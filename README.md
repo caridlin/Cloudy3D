@@ -9,8 +9,8 @@ The velocity of the disk is as follows.
 <img src="disk.png" alt="drawing" width="500"/>
 
 <p float="left">
-  <img src="angle30.png" width="100" />
-  <img src="angle80.png" width="100" /> 
+  <img src="angle30.png" width="400" />
+  <img src="angle80.png" width="400" /> 
 </p>
 
 ## Step 2
