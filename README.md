@@ -6,11 +6,11 @@ For a Sersic disk with a circular velocity defined by the potential of the galac
 
 The velocity of the disk is as follows.
 
-<img src="disk.png" alt="drawing" width="500"/>
+<img src="disk.png" alt="drawing" width="400"/>
 
 <p float="left">
-  <img src="angle30.png" width="400" />
-  <img src="angle80.png" width="400" /> 
+  <img src="angle30.png" width="500" />
+  <img src="angle80.png" width="500" /> 
 </p>
 
 ## Step 2
