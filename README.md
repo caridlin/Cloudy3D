@@ -8,11 +8,8 @@ The velocity of the disk is as follows.
 
 <img src="disk.png" alt="drawing" width="500"/>
 
-When viewd almost face-on (angle = 30):
-<img src="angle30.png" alt="drawing" width="800"/>
 
-When viewd almost edge-on (angle = 80):
-<img src="angle80.png" alt="drawing" width="800"/>
+![drawing](angle30.png "title-1") ![drawing](angle80.png "title-2")
 
 ## Step 2
 
