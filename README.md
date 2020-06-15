@@ -10,7 +10,7 @@ The velocity of the disk is as follows.
 
 Here are 
 <p float="left">
-  <img src="angle30.png" width="420" title = "Angle = 30"/>
+  <img src="angle30.png" width="420" title = "Angle 30"/>
   <img src="angle80.png" width="420" /> 
 </p>
 
